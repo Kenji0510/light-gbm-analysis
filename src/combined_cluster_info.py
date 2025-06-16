@@ -15,8 +15,8 @@ def sorted_cluster_paths(dir_path: str, pattern: str):
 
 if __name__ == '__main__':
     # ディレクトリ
-    summary_dir = '/home/kenji/workspace/python3/pcd_operation/data/averaging_data/20250530-1635-onlyPerson_json'
-    fpfh_dir    = '/home/kenji/workspace/python3/pcd_operation/data/averaging_data/20250530-1635-onlyPerson_choiced_fpfh'
+    summary_dir = '/home/kenji/workspace/python3/pcd_operation/data/averaging_data/20250530-1643_json'
+    fpfh_dir    = '/home/kenji/workspace/python3/pcd_operation/data/averaging_data/20250530-1643_choiced_fpfh'
 
     # サマリー JSON は *_top3.json
     summary_paths = sorted_cluster_paths(summary_dir, '*_top3.json')
@@ -73,7 +73,7 @@ sorted_keys = sorted(
 ordered = OrderedDict((k, combined[k]) for k in sorted_keys)
 
 # ファイルへ書き出し
-out_path = os.path.join("../data/combined_data/20250530-1635", 'combined_clusters.json')
+out_path = os.path.join("../data/combined_data/20250530-1643", 'combined_clusters.json')
 with open(out_path, 'w', encoding='utf-8') as f:
     json.dump(ordered, f, ensure_ascii=False, indent=2)
 
