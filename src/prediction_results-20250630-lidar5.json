@@ -1,0 +1,1208 @@
+[
+  {
+    "index": 682,
+    "cluster_id": "cluster_14_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 762,
+    "cluster_id": "cluster_207_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 629,
+    "cluster_id": "cluster_29_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 957,
+    "cluster_id": "cluster_444_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 270,
+    "cluster_id": "cluster_29_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 315,
+    "cluster_id": "cluster_309_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 768,
+    "cluster_id": "cluster_130_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 594,
+    "cluster_id": "cluster_253_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 372,
+    "cluster_id": "cluster_320_2",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 317,
+    "cluster_id": "cluster_9_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 360,
+    "cluster_id": "cluster_328_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 98,
+    "cluster_id": "cluster_64_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 869,
+    "cluster_id": "cluster_106_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 935,
+    "cluster_id": "cluster_44_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 644,
+    "cluster_id": "cluster_402_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 32,
+    "cluster_id": "cluster_235_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 424,
+    "cluster_id": "cluster_22_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 176,
+    "cluster_id": "cluster_99_0",
+    "true_label": 1,
+    "pred_label": 3
+  },
+  {
+    "index": 490,
+    "cluster_id": "cluster_251_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 834,
+    "cluster_id": "cluster_28_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 905,
+    "cluster_id": "cluster_99_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 980,
+    "cluster_id": "cluster_146_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 116,
+    "cluster_id": "cluster_154_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 501,
+    "cluster_id": "cluster_281_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 285,
+    "cluster_id": "cluster_108_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 712,
+    "cluster_id": "cluster_394_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 643,
+    "cluster_id": "cluster_201_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 103,
+    "cluster_id": "cluster_184_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 883,
+    "cluster_id": "cluster_176_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 220,
+    "cluster_id": "cluster_51_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 12,
+    "cluster_id": "cluster_21_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 813,
+    "cluster_id": "cluster_329_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 375,
+    "cluster_id": "cluster_234_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 539,
+    "cluster_id": "cluster_86_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 527,
+    "cluster_id": "cluster_42_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 233,
+    "cluster_id": "cluster_142_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 689,
+    "cluster_id": "cluster_311_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 622,
+    "cluster_id": "cluster_384_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 181,
+    "cluster_id": "cluster_176_1",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 716,
+    "cluster_id": "cluster_118_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 929,
+    "cluster_id": "cluster_167_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 690,
+    "cluster_id": "cluster_404_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 984,
+    "cluster_id": "cluster_302_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 462,
+    "cluster_id": "cluster_267_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 187,
+    "cluster_id": "cluster_63_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 914,
+    "cluster_id": "cluster_30_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 229,
+    "cluster_id": "cluster_203_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 531,
+    "cluster_id": "cluster_326_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 930,
+    "cluster_id": "cluster_313_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 283,
+    "cluster_id": "cluster_39_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 163,
+    "cluster_id": "cluster_112_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 848,
+    "cluster_id": "cluster_422_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 894,
+    "cluster_id": "cluster_380_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 799,
+    "cluster_id": "cluster_81_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 156,
+    "cluster_id": "cluster_170_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 836,
+    "cluster_id": "cluster_25_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 552,
+    "cluster_id": "cluster_89_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 999,
+    "cluster_id": "cluster_168_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 759,
+    "cluster_id": "cluster_421_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 611,
+    "cluster_id": "cluster_242_1",
+    "true_label": 3,
+    "pred_label": 1
+  },
+  {
+    "index": 443,
+    "cluster_id": "cluster_276_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 798,
+    "cluster_id": "cluster_37_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 118,
+    "cluster_id": "cluster_78_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 492,
+    "cluster_id": "cluster_62_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 518,
+    "cluster_id": "cluster_24_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 757,
+    "cluster_id": "cluster_263_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 718,
+    "cluster_id": "cluster_392_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 816,
+    "cluster_id": "cluster_291_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 551,
+    "cluster_id": "cluster_143_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 503,
+    "cluster_id": "cluster_101_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 609,
+    "cluster_id": "cluster_113_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 438,
+    "cluster_id": "cluster_115_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 540,
+    "cluster_id": "cluster_208_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 253,
+    "cluster_id": "cluster_308_1",
+    "true_label": 2,
+    "pred_label": 1
+  },
+  {
+    "index": 394,
+    "cluster_id": "cluster_180_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 209,
+    "cluster_id": "cluster_4_1",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 923,
+    "cluster_id": "cluster_411_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 596,
+    "cluster_id": "cluster_197_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 975,
+    "cluster_id": "cluster_157_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 80,
+    "cluster_id": "cluster_179_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 415,
+    "cluster_id": "cluster_261_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 713,
+    "cluster_id": "cluster_50_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 474,
+    "cluster_id": "cluster_111_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 448,
+    "cluster_id": "cluster_200_1",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 404,
+    "cluster_id": "cluster_109_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 508,
+    "cluster_id": "cluster_59_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 146,
+    "cluster_id": "cluster_161_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 9,
+    "cluster_id": "cluster_144_1",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 178,
+    "cluster_id": "cluster_141_1",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 241,
+    "cluster_id": "cluster_31_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 21,
+    "cluster_id": "cluster_245_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 676,
+    "cluster_id": "cluster_243_0",
+    "true_label": 3,
+    "pred_label": 1
+  },
+  {
+    "index": 205,
+    "cluster_id": "cluster_98_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 613,
+    "cluster_id": "cluster_371_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 941,
+    "cluster_id": "cluster_200_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 965,
+    "cluster_id": "cluster_120_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 230,
+    "cluster_id": "cluster_23_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 204,
+    "cluster_id": "cluster_33_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 630,
+    "cluster_id": "cluster_339_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 864,
+    "cluster_id": "cluster_27_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 48,
+    "cluster_id": "cluster_248_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 998,
+    "cluster_id": "cluster_259_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 99,
+    "cluster_id": "cluster_158_1",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 456,
+    "cluster_id": "cluster_168_1",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 856,
+    "cluster_id": "cluster_324_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 849,
+    "cluster_id": "cluster_296_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 592,
+    "cluster_id": "cluster_21_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 459,
+    "cluster_id": "cluster_27_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 523,
+    "cluster_id": "cluster_214_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 931,
+    "cluster_id": "cluster_456_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 476,
+    "cluster_id": "cluster_158_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 522,
+    "cluster_id": "cluster_312_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 558,
+    "cluster_id": "cluster_146_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 781,
+    "cluster_id": "cluster_221_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 432,
+    "cluster_id": "cluster_182_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 102,
+    "cluster_id": "cluster_80_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 564,
+    "cluster_id": "cluster_316_1",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 790,
+    "cluster_id": "cluster_322_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 746,
+    "cluster_id": "cluster_139_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 7,
+    "cluster_id": "cluster_77_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 334,
+    "cluster_id": "cluster_68_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 621,
+    "cluster_id": "cluster_304_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 631,
+    "cluster_id": "cluster_74_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 104,
+    "cluster_id": "cluster_234_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 696,
+    "cluster_id": "cluster_368_1",
+    "true_label": 3,
+    "pred_label": 1
+  },
+  {
+    "index": 827,
+    "cluster_id": "cluster_34_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 271,
+    "cluster_id": "cluster_235_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 807,
+    "cluster_id": "cluster_342_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 20,
+    "cluster_id": "cluster_69_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 171,
+    "cluster_id": "cluster_192_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 422,
+    "cluster_id": "cluster_307_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 213,
+    "cluster_id": "cluster_189_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 4,
+    "cluster_id": "cluster_142_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 217,
+    "cluster_id": "cluster_61_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 922,
+    "cluster_id": "cluster_398_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 732,
+    "cluster_id": "cluster_364_0",
+    "true_label": 3,
+    "pred_label": 1
+  },
+  {
+    "index": 734,
+    "cluster_id": "cluster_134_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 435,
+    "cluster_id": "cluster_25_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 218,
+    "cluster_id": "cluster_187_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 122,
+    "cluster_id": "cluster_237_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 331,
+    "cluster_id": "cluster_123_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 355,
+    "cluster_id": "cluster_90_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 479,
+    "cluster_id": "cluster_332_1",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 650,
+    "cluster_id": "cluster_365_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 628,
+    "cluster_id": "cluster_185_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 699,
+    "cluster_id": "cluster_46_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 480,
+    "cluster_id": "cluster_211_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 126,
+    "cluster_id": "cluster_0_0",
+    "true_label": 1,
+    "pred_label": 2
+  },
+  {
+    "index": 633,
+    "cluster_id": "cluster_66_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 491,
+    "cluster_id": "cluster_273_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 114,
+    "cluster_id": "cluster_156_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 845,
+    "cluster_id": "cluster_401_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 850,
+    "cluster_id": "cluster_151_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 76,
+    "cluster_id": "cluster_50_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 478,
+    "cluster_id": "cluster_336_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 498,
+    "cluster_id": "cluster_314_1",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 566,
+    "cluster_id": "cluster_181_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 642,
+    "cluster_id": "cluster_382_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 411,
+    "cluster_id": "cluster_309_1",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 554,
+    "cluster_id": "cluster_157_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 166,
+    "cluster_id": "cluster_249_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 671,
+    "cluster_id": "cluster_215_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 739,
+    "cluster_id": "cluster_430_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 409,
+    "cluster_id": "cluster_15_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 516,
+    "cluster_id": "cluster_167_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 367,
+    "cluster_id": "cluster_207_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 455,
+    "cluster_id": "cluster_183_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 22,
+    "cluster_id": "cluster_67_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 911,
+    "cluster_id": "cluster_101_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 588,
+    "cluster_id": "cluster_389_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 506,
+    "cluster_id": "cluster_311_2",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 108,
+    "cluster_id": "cluster_52_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 275,
+    "cluster_id": "cluster_66_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 145,
+    "cluster_id": "cluster_244_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 244,
+    "cluster_id": "cluster_127_1",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 733,
+    "cluster_id": "cluster_407_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 773,
+    "cluster_id": "cluster_257_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 617,
+    "cluster_id": "cluster_367_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 405,
+    "cluster_id": "cluster_128_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 528,
+    "cluster_id": "cluster_58_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 587,
+    "cluster_id": "cluster_419_1",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 791,
+    "cluster_id": "cluster_284_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 112,
+    "cluster_id": "cluster_8_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 77,
+    "cluster_id": "cluster_164_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 661,
+    "cluster_id": "cluster_240_0",
+    "true_label": 3,
+    "pred_label": 1
+  },
+  {
+    "index": 821,
+    "cluster_id": "cluster_22_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 562,
+    "cluster_id": "cluster_71_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 192,
+    "cluster_id": "cluster_162_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 88,
+    "cluster_id": "cluster_53_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 258,
+    "cluster_id": "cluster_113_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 583,
+    "cluster_id": "cluster_105_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 172,
+    "cluster_id": "cluster_76_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 616,
+    "cluster_id": "cluster_334_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 82,
+    "cluster_id": "cluster_102_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 735,
+    "cluster_id": "cluster_264_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 608,
+    "cluster_id": "cluster_67_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 152,
+    "cluster_id": "cluster_121_0",
+    "true_label": 1,
+    "pred_label": 1
+  },
+  {
+    "index": 543,
+    "cluster_id": "cluster_98_0",
+    "true_label": 2,
+    "pred_label": 2
+  },
+  {
+    "index": 802,
+    "cluster_id": "cluster_155_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 808,
+    "cluster_id": "cluster_165_0",
+    "true_label": 3,
+    "pred_label": 3
+  },
+  {
+    "index": 264,
+    "cluster_id": "cluster_177_0",
+    "true_label": 2,
+    "pred_label": 2
+  }
+]
