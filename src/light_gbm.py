@@ -57,11 +57,11 @@ def load_clusters(path, label):
 # df_pos = pd.concat([df_pos, df_pos_extra], ignore_index=True)
 # df_pos = pd.concat([df_pos, df_pos_extra_02], ignore_index=True)
 
-df_only_person = load_clusters_from_dir('/home/kenji/workspace/cpp/create-features-pcl/data/output/grsd-results/20250630/lidar03/person', label=1)
+df_only_person = load_clusters_from_dir('/home/kenji/workspace/python3/light_gbm/data/20250630/lidar03/person', label=1)
 print(f"Loaded person clusters: {len(df_only_person)}")
-df_bring_box = load_clusters_from_dir('/home/kenji/workspace/cpp/create-features-pcl/data/output/grsd-results/20250630/lidar03/box', label=2)
+df_bring_box = load_clusters_from_dir('/home/kenji/workspace/python3/light_gbm/data/20250630/lidar03/box', label=2)
 print(f"Loaded box clusters: {len(df_bring_box)}")
-df_bring_suitcase = load_clusters_from_dir('/home/kenji/workspace/cpp/create-features-pcl/data/output/grsd-results/20250630/lidar03/suitcase', label=3)
+df_bring_suitcase = load_clusters_from_dir('/home/kenji/workspace/python3/light_gbm/data/20250630/lidar03/suitcase', label=3)
 print(f"Loaded suitcase clusters: {len(df_bring_suitcase)}")
 
 
@@ -80,7 +80,7 @@ X_train, X_test, y_train, y_test = train_test_split(
 
 # ——— LightGBM モデル定義＆学習 ———
 model = lgb.LGBMClassifier(
-    device='gpu',
+    device='cpu',
     max_depth=4,            # さらに浅く
     num_leaves=6,           # 葉の数もさらに減らす
     min_data_in_leaf=7,     # 葉に必要な最小データ数を増やす
@@ -137,4 +137,4 @@ plt.title("Top 20 Feature Importances")
 plt.tight_layout()
 plt.show()
 
-plt.savefig('../data/figure/feature_importance.png', dpi=300)
+plt.savefig('../../data/figure/feature_importance.png', dpi=300)
